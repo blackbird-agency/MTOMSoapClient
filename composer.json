@@ -1,5 +1,5 @@
 {
-  "name": "debuss-a/mtomsoapclient",
+  "name": "blackbird/mtomsoapclient",
   "type": "library",
   "description": "This class overrides SoapClient::__doRequest() method to implement MTOM for PHP. It decodes XML and integrate attachments in the XML response.",
   "minimum-stability": "dev",
